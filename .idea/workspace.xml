@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="308b49d2-92f0-4a76-aa49-88cfc3bd68e5" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functional_interface/BinaryOperatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functional_interface/ConsumerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functional_interface/FunctionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functional_interface/PredicateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functional_interface/SupplierExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="308b49d2-92f0-4a76-aa49-88cfc3bd68e5" name="Changes" comment="stream api java">
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/desafios/Desafio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/desafios/Desafio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/desafios/Desafio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/desafios/Desafio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/desafios/Desafio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/desafios/Desafio6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +28,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mirthir&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f2596ea0-6a47-4ddc-8a9f-f7526ef70f76" />
+        <option name="url" value="https://github.com/mirthir/streamsapi" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -38,29 +51,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Estudos/PenseJava/streamAPI/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "D:/Estudos/PenseJava/streamAPI/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.SupplierExample">
-    <configuration name="BinaryOperatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional_interface.BinaryOperatorExample" />
+}]]></component>
+  <component name="RunManager" selected="Application.Desafio6">
+    <configuration name="Desafio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional_interface.desafios.Desafio2" />
       <module name="streamAPI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functional_interface.*" />
+          <option name="PATTERN" value="functional_interface.desafios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional_interface.ConsumerExample" />
+    <configuration name="Desafio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional_interface.desafios.Desafio3" />
       <module name="streamAPI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functional_interface.*" />
+          <option name="PATTERN" value="functional_interface.desafios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional_interface.FunctionExample" />
+    <configuration name="Desafio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional_interface.desafios.Desafio4" />
       <module name="streamAPI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functional_interface.*" />
+          <option name="PATTERN" value="functional_interface.desafios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional_interface.PredicateExample" />
+    <configuration name="Desafio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional_interface.desafios.Desafio5" />
       <module name="streamAPI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functional_interface.*" />
+          <option name="PATTERN" value="functional_interface.desafios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SupplierExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional_interface.SupplierExample" />
+    <configuration name="Desafio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional_interface.desafios.Desafio6" />
       <module name="streamAPI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functional_interface.*" />
+          <option name="PATTERN" value="functional_interface.desafios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SupplierExample" />
-        <item itemvalue="Application.PredicateExample" />
-        <item itemvalue="Application.FunctionExample" />
-        <item itemvalue="Application.ConsumerExample" />
-        <item itemvalue="Application.BinaryOperatorExample" />
+        <item itemvalue="Application.Desafio6" />
+        <item itemvalue="Application.Desafio5" />
+        <item itemvalue="Application.Desafio4" />
+        <item itemvalue="Application.Desafio3" />
+        <item itemvalue="Application.Desafio2" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +153,11 @@
       <option name="presentableId" value="Default" />
       <updated>1693219825660</updated>
       <workItem from="1693219826724" duration="2327000" />
-      <workItem from="1693307271992" duration="1649000" />
+      <workItem from="1693307271992" duration="2679000" />
+      <workItem from="1693914937549" duration="18000" />
+      <workItem from="1693915308282" duration="513000" />
+      <workItem from="1693915842738" duration="1990000" />
+      <workItem from="1693922321662" duration="6391000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -149,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693220008550</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="stream api java">
+      <option name="closed" value="true" />
+      <created>1693308972856</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693308972856</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +194,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="stream api java" />
+    <option name="LAST_COMMIT_MESSAGE" value="stream api java" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
