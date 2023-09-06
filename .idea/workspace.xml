@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="308b49d2-92f0-4a76-aa49-88cfc3bd68e5" name="Changes" comment="desafios stream java">
-      <change beforePath="$PROJECT_DIR$/src/functional_interface/desafios/Desafio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional_interface/desafios/Desafio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/desafios/Desafio10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/desafios/Desafio11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/desafios/Desafio12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/desafios/Desafio7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/desafios/Desafio9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +67,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Desafio6">
-    <configuration name="Desafio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional_interface.desafios.Desafio2" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="functional_interface.desafios" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Desafio12">
+    <configuration name="Desafio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional_interface.desafios.Desafio10" />
       <module name="streamAPI" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Desafio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional_interface.desafios.Desafio3" />
+    <configuration name="Desafio11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional_interface.desafios.Desafio11" />
       <module name="streamAPI" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Desafio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional_interface.desafios.Desafio4" />
+    <configuration name="Desafio12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional_interface.desafios.Desafio12" />
       <module name="streamAPI" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Desafio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional_interface.desafios.Desafio5" />
+    <configuration name="Desafio7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional_interface.desafios.Desafio7" />
       <module name="streamAPI" />
       <extension name="coverage">
         <pattern>
@@ -115,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Desafio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional_interface.desafios.Desafio6" />
+    <configuration name="Desafio9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional_interface.desafios.Desafio9" />
       <module name="streamAPI" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Desafio6" />
-        <item itemvalue="Application.Desafio5" />
-        <item itemvalue="Application.Desafio4" />
-        <item itemvalue="Application.Desafio3" />
-        <item itemvalue="Application.Desafio2" />
+        <item itemvalue="Application.Desafio12" />
+        <item itemvalue="Application.Desafio11" />
+        <item itemvalue="Application.Desafio10" />
+        <item itemvalue="Application.Desafio9" />
+        <item itemvalue="Application.Desafio7" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +162,8 @@
       <workItem from="1693915308282" duration="513000" />
       <workItem from="1693915842738" duration="1990000" />
       <workItem from="1693922321662" duration="6818000" />
-      <workItem from="1694002405503" duration="385000" />
+      <workItem from="1694002405503" duration="911000" />
+      <workItem from="1694003344880" duration="782000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -186,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694002752160</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="desafios stream java">
+      <option name="closed" value="true" />
+      <created>1694002802259</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694002802259</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
